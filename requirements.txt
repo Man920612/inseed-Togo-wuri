@@ -1,5 +1,6 @@
 streamlit
 face_recognition
+deepface
 opencv-python-headless
 numpy
 pandas
