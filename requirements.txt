@@ -1,10 +1,9 @@
-import streamlit as st
-import cv2
-import face_recognition
-import numpy as np
-import time
-import os
-from geopy.distance import geodesic
-from streamlit_javascript import st_javascript
-import pandas as pd
-from datetime import datetime
+streamlit
+face_recognition
+opencv-python
+numpy
+pandas
+geopy
+streamlit-javascript
+oauth2client
+gspread
