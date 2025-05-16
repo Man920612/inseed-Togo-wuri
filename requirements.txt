@@ -1,6 +1,6 @@
 streamlit
 face_recognition
-opencv-python
+opencv-python-headless
 numpy
 pandas
 geopy
